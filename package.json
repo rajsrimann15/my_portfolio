@@ -1,7 +1,9 @@
 {
+  "homepage": "https://rajsrimann15.github.io/my_portfolio",
   "name": "portfolio---react",
   "version": "0.1.0",
   "private": true,
+  
   "dependencies": {
     "@emailjs/browser": "^3.6.2",
     "@testing-library/jest-dom": "^5.16.4",
@@ -39,8 +41,7 @@
       "last 1 chrome version",
       "last 1 firefox version",
       "last 1 safari version"
-    ],
-    "homepage": "https://rajsrimann15.github.io/my_portfolio"
+    ]
   },
   "devDependencies": {
     "gh-pages": "^6.3.0"
