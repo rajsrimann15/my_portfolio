@@ -40,7 +40,7 @@
       "last 1 firefox version",
       "last 1 safari version"
     ],
-    "homepage": "https://github.com/rajsrimann15/my_portfolio.git"
+    "homepage": "https://rajsrimann15.github.io/my_portfolio"
   },
   "devDependencies": {
     "gh-pages": "^6.3.0"
