@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8bf6f4a8.css",
+    "main.js": "/static/js/main.e53899ae.js",
+    "static/media/fh-huquq.png": "/static/media/fh-huquq.2c657446a66a66a4d556.png",
+    "static/media/me.jpg": "/static/media/me.83563e9cefada71fda5e.jpg",
+    "static/media/pgrp.png": "/static/media/pgrp.cbe41b5dfe3de99ff5c0.png",
+    "static/media/reservation-form.png": "/static/media/reservation-form.832532681ceb32753760.png",
+    "static/media/Project4.jpg": "/static/media/Project4.8de82fea50154dddbe24.jpg",
+    "static/media/Startup Agency Project.jpg": "/static/media/Startup Agency Project.dcb42126ea6ff853c8f3.jpg",
+    "static/media/Jokes Project.jpg": "/static/media/Jokes Project.133f44f42c2b6b0c1781.jpg",
+    "static/media/v8.pdf": "/static/media/v8.ee1f62663536c84a326f.pdf",
+    "static/media/leetcode.svg": "/static/media/leetcode.e5518696e7cde70fc43dd5f02edd3f93.svg",
+    "index.html": "/index.html",
+    "main.8bf6f4a8.css.map": "/static/css/main.8bf6f4a8.css.map",
+    "main.e53899ae.js.map": "/static/js/main.e53899ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8bf6f4a8.css",
+    "static/js/main.e53899ae.js"
+  ]
+}
