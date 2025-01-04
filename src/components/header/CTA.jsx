@@ -1,10 +1,10 @@
 import React from 'react';
-import CV from '../../assets/v8.pdf';
+const CV = 'https://drive.google.com/file/d/17rGsfaJP1mhjKcUJMcX_lCJh2rkrreVT/view?usp=drive_link';
 
 const CTA = () => {
   return (
     <div className="cta">
-      <a href={CV} download className="btn">
+      <a href={CV}  target="_blank" rel="noopener noreferrer" className="btn">
         Resume
       </a>
       <a href="#contact" className="btn btn-primary">
