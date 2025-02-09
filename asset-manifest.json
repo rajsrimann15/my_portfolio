@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/my_portfolio/static/css/main.8bf6f4a8.css",
+    "main.js": "/my_portfolio/static/js/main.0738c47d.js",
+    "static/media/fh-huquq.png": "/my_portfolio/static/media/fh-huquq.2c657446a66a66a4d556.png",
+    "static/media/me.jpg": "/my_portfolio/static/media/me.83563e9cefada71fda5e.jpg",
+    "static/media/reservation-form.png": "/my_portfolio/static/media/reservation-form.832532681ceb32753760.png",
+    "static/media/pgrp.png": "/my_portfolio/static/media/pgrp.8823ca50cdfb8589c77d.png",
+    "static/media/Project4.jpg": "/my_portfolio/static/media/Project4.8de82fea50154dddbe24.jpg",
+    "static/media/Startup Agency Project.jpg": "/my_portfolio/static/media/Startup Agency Project.dcb42126ea6ff853c8f3.jpg",
+    "static/media/Jokes Project.jpg": "/my_portfolio/static/media/Jokes Project.133f44f42c2b6b0c1781.jpg",
+    "static/media/leetcode.svg": "/my_portfolio/static/media/leetcode.d62cbcd580740a6485a91fef0b738030.svg",
+    "index.html": "/my_portfolio/index.html",
+    "main.8bf6f4a8.css.map": "/my_portfolio/static/css/main.8bf6f4a8.css.map",
+    "main.0738c47d.js.map": "/my_portfolio/static/js/main.0738c47d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8bf6f4a8.css",
+    "static/js/main.0738c47d.js"
+  ]
+}
